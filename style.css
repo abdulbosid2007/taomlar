@@ -1,0 +1,225 @@
+
+
+body {
+    font-family: sans-serif;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 580px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.list1 ul {
+    display: flex;
+    gap: 15px;
+}
+.list1 ul li {
+    list-style: none;
+}
+.list1 ul li a {
+    text-decoration: none;
+    color: black;
+}
+.list2 {
+    display: flex;
+    gap: 20px;
+}
+.icon i {
+    font-size: 25px;
+}
+/* =============== */
+
+.live {
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.just {
+    font-size: 20px;
+    margin-top: 130px;
+}
+.just h1 {
+    font-size: 50px;
+    font-family: unset;
+    max-width: 450px;
+    line-height: 60px;
+}
+.just p {
+    line-height: 35px;
+    max-width: 400px;
+}
+.image img {
+    width: 790px;
+    height: 790px; 
+}
+.btn1 button {
+    width: 140px;
+    height: 45px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    background-color: #64BB47;
+}
+/* ========================= */
+
+.code1 {
+    text-align: center;
+}
+.matn p {
+    color: gray;
+}
+
+.order {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 50px;
+}
+.food {
+    text-align: center;
+}
+.food p {
+    max-width: 230px;
+}
+/*  */
+.part {
+    display: flex;
+    gap: 140px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+/* ================= */
+
+.online {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 120px;
+}
+.about p {
+    max-width: 400px;
+    line-height: 23px;
+}
+.about button {
+    width: 140px;
+    height: 45px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    background-color: #64BB47;
+    margin-top: 30px;
+}
+.page {
+    display: flex;
+    gap: 30px;
+}
+.foto1 img {
+    width: 280px;
+    height: 630px;
+}
+.foto img {
+    width: 320px;
+    height: 290px;
+}
+.foto {
+    line-height: 70px;
+}
+.foto1 {
+    margin-top: 50px;
+}
+/* ================ */
+
+.fresh {
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    display: flex;
+    margin-top: 130px;
+}
+.photo img {
+    width: 490px;
+    height: 400px;
+}
+.more p {
+    line-height: 25px;
+    max-width: 330px;
+    margin-top: 30px;
+}
+.more button {
+    width: 150px;
+    height: 45px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    background-color: #64BB47;
+    margin-top: 10px;
+}
+/* ========================= */
+
+.cook {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+}
+.car {
+    line-height: 40px;
+}
+.the p  {
+    max-width: 350px;
+    line-height: 30px;
+}
+.input {
+    display: block;
+}
+.images img {
+    width: 550px;
+    height: 500px;
+}
+/* ==================== */
+
+.text {
+    text-align: center;
+    margin-top: 150px;
+}
+.text p {
+    color: gray;
+}
+.green {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 90px;
+}
+.salad {
+    width: 356px;
+    height: 520px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.salad1 {
+    width: 356px;
+    height: 520px;
+    border-radius: 10px;
+    box-shadow: 5px 90px 90px 5px gray;
+}
+.yer {
+    margin-top: 30px;
+}
+.pppp {
+    margin-left: 30px;
+}
+.salad p {
+    max-width: 300px;
+    line-height: 25px;
+}
+
+
+
+
